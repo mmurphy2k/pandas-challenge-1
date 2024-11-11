@@ -17,7 +17,7 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 
 ## 2. **File Structure**
 
-![Screenshot of the GitHub repository for this application.](https://github.com/user-attachments/assets/cb7c562e-9204-4acb-99bd-10cb85865161)
+![Screenshot of the GitHub repository for this application.](https://github.com/user-attachments/assets/6ccb74c1-b89e-4dc2-be74-781c2fef47d4)
 
 
 ## 3. **How to run the program**
